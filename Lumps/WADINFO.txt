@@ -1,4 +1,3 @@
-# TGRDM1 - WADINFO
 ===========================================================================
 Advanced engine needed  : ZDoom 2.4.1 or later
 Primary purpose         : Deathmatch
